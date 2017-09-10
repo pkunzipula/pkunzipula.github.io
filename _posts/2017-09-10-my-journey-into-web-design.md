@@ -5,6 +5,7 @@ title: My Journey into Front-End Web Design, by Bilbo Baggins
 
 After leaving the Shire, I decided to get a Bachelor's in Communications. I was the first of my friends to have a degree. "He's goin' places!" they all said. Then the Simpsons did this:
 
+(click the image)
 [![IMAGE Communications Degree](https://img.youtube.com/vi/_4OuAAM4v_Y/0.jpg)](https://www.youtube.com/watch?v=_4OuAAM4v_Y). 
 
 My friends laughed at me. I was communicationless to defend myself. But then... it **happened!**
