@@ -10,7 +10,7 @@ I got my first job in communications! The Oldies radio station hired me, the com
 
 So I showed them. I moved to Seattle, worked at Starbucks, declared bankruptcy, moved back home and went to Graduate School for education.
 
-My students often asked me what teacher or life event inspired me to go into teaching high school Powerpoint. I answered honestly: "Education was the only building I didn't go into when I was in college the first time. I wanted to see what was in there."
+My students often asked me what teacher or life event inspired me to go into teaching high school. I answered honestly: "Education was the only building I didn't go into when I was in college the first time. I wanted to see what was in there."
 
 I taught English to high schoolers for a semester. Then Sideways came out, and Jack told Miles "You're wasting away - teaching English to f*cking eighth graders, they ought to be reading what you wrote. Your books Miles."
 
