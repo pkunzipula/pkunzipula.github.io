@@ -4,7 +4,10 @@ title: My Journey into Front-End Web Design, by Bilbo Baggins
 ---
 
 After leaving the Shire, I decided to get a Bachelor's in Communications. I was the first of my friends to have a degree. "He's goin' places!" they all said. Then the Simpsons did this:
-[![IMAGE Communications Degree](https://img.youtube.com/vi/_4OuAAM4v_Y/0.jpg)](https://www.youtube.com/watch?v=_4OuAAM4v_Y). My friends laughed at me. I was communicationless to defend myself. But then... it **happened!**
+
+[![IMAGE Communications Degree](https://img.youtube.com/vi/_4OuAAM4v_Y/0.jpg)](https://www.youtube.com/watch?v=_4OuAAM4v_Y). 
+
+My friends laughed at me. I was communicationless to defend myself. But then... it **happened!**
 
 I got my first job in communications! The Oldies radio station hired me, the communicator to... write copy?  Nope. Talk on the air? No... wait, what? Sell airtime? That's the one! For 4 hours each morning, I, the 23 year old, cold called businesses owned by baby boomers to communicate the message "Advertise or DIE!" in a diplomatic way that only a degree-holding communicator could. The nice ones said "Call me back when the new fiscal year starts." How did they know I wouldn't last that long?! The others told me to lose their number and *bleep* off. For the next 4 hours, I got in my car and cold walked into business, where I enjoyed the same general reception and success rate. Eventually I started using those last 4 hours to seek a different path. On one particular afternoon, I stood in line for 3 hours to audition for the boy band that became O-Town. They said I was too old and couldn't dance and couldn't sing. But keep trying.
 
